@@ -55,18 +55,18 @@
             width="40" height="40" /> </a> </p>
 <br><br>
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center"
-            src="https://github-profile-trophy.vercel.app/?username=sharvil24600&theme=juicyfresh&row=2&column=3"
-            alt="sharvil24600" /></a> </p>
+            src="https://github-profile-trophy.vercel.app/?username=viju3038&theme=juicyfresh&row=2&column=3"
+            alt="viju3038" /></a> </p>
 
 <br>
 <p><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=sharvil24600&show_icons=true&theme=merko&hide_border=true&locale=en&layout=compact"
-        alt="sharvil24600" /></p>
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=viju3038&show_icons=true&theme=merko&hide_border=true&locale=en&layout=compact"
+        alt="viju3038" /></p>
 
 <br>
 <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=sharvil24600&show_icons=true&theme=merko&hide_border=true&locale=en"
-        alt="sharvil24600" /></p>
+        src="https://github-readme-stats.vercel.app/api?username=viju3038&show_icons=true&theme=merko&hide_border=true&locale=en"
+        alt="viju3038" /></p>
 
 <br>
 <p><img align="center"
