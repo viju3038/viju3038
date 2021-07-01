@@ -56,6 +56,7 @@
 
 <img src="https://img.shields.io/badge/figma-%23000000.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/matlab-%23000000.svg?&style=for-the-badge&logo=matlab&logoColor=white"/>
 </p>
 <br><br>
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center"
