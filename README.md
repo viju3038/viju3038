@@ -56,11 +56,11 @@
 
 <img src="https://img.shields.io/badge/figma-%23000000.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 
-<img src="logo=matlab&logoColor=white"/>
+<img src="style=for-the-badge&logo=matlab&logoColor=white"/>
 
-<img src="logo=overleaf&logoColor=white"/>
+<img src="style=for-the-badge&logo=overleaf&logoColor=white"/>
     
-<img src="logo=R&logoColor=white"/>
+<img src="style=for-the-badge&logo=R&logoColor=white"/>
 </p>
 <br><br>
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center"
