@@ -57,7 +57,7 @@
 <img src="https://img.shields.io/badge/figma-%23000000.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 
 </p>
-<br><br><br>
+<br><br>
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center"
             src="https://github-profile-trophy.vercel.app/?username=viju3038&theme=juicyfresh&row=2&column=3"
             alt="viju3038" /></a> </p>
